@@ -2,9 +2,9 @@
 
 ###
 
-![GitHub stats](https://stats-github-readme.vercel.app/api?username=koligaurav462&show_icons=true&count_private=true&theme=tokyonight)
+![GitHub stats](https://stats-github-readme.vercel.app/api?username=koligaurav462&show_icons=true&count_private=true&theme=dracula)
 
-![Top Langs](https://stats-github-readme.vercel.app/api/top-langs/?username=koligaurav462&layout=compact&theme=tokyonight)
+![Top Langs](https://stats-github-readme.vercel.app/api/top-langs/?username=koligaurav462&layout=compact&theme=dracula)
 
 ###
 
